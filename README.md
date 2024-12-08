@@ -21,7 +21,7 @@ A **simple yet interactive project** where you can **toggle a light bulb on and 
 
 ---
 
-## **Customization**
+## ** Customization**
 
 - **Sound Effect**: Replace the **`audio/click.mp3`** file with any sound of your choice.
 - **Colors & Effects**: Modify the **`.bulb`** and **`body.on`** styles in **`style.css`** to create a unique design.
